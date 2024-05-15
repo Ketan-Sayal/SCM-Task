@@ -3,10 +3,10 @@
 <h2>Changes done by Teammates</h2>
 
 <ul>
-  <li>Ketan</li>
-  <li>Michael</li>
-  <li>Jaskaran</li>
-  <li>Harsh</li>
+  <li><strong>Ketan</strong></li>
+  <li><strong>Michael</strong></li>
+  <li><strong>Jaskaran</strong></li>
+  <li><strong>Harsh</strong></li>
 </ul>
 
 
